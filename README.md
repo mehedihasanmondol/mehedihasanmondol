@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mehedihasanmondol
 - 👀 I’m interested in the Ecosystem Web application
-- 🌱 I’m currently learning Paranting
+- 🌱 I’m currently learning Parenting
 - 💞️ I’m looking to collaborate on Vue3 & Laravel Stack Web Development
 - 📫 How to reach me ...
 - 💬 [WhatsApp](https://api.whatsapp.com/send?phone=8801912336505)
