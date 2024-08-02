@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @mehedihasanmondol
 - 👀 I’m interested in the Ecosystem Web application
-- 🌱 I’m currently learning microservice
-- 💞️ I’m looking to collaborate on MERN Stack Web Development
+- 🌱 I’m currently learning Paranting
+- 💞️ I’m looking to collaborate on Vue3 & Laravel Stack Web Development
 - 📫 How to reach me ...
-- 💬 [Facebook](https://www.facebook.com/profile.php?id=100094648796934)
+- 💬 [WhatsApp](https://api.whatsapp.com/send?phone=8801912336505)
 
 ## Full stack web developer | Optimization | Security and API integrator
 
