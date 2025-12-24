@@ -4,7 +4,7 @@
 - 📫 How to reach me ...
 - 💬 [WhatsApp](https://api.whatsapp.com/send?phone=8801912336505)
 
-## Full stack web developer | Optimization | Security and API integrator
+## AI IDE Specialist Windsurf / Antigravity &.. | Web App & Android Dev.
 
 I am not a traditional developer anymore . I am fully upgraded. 
 
